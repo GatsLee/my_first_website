@@ -1,8 +1,6 @@
 
 # My_First_Web
-
----
-
+ ---
 <aside>
 💡 YCC(Yonsei Computer Club) 2023_1 Study (MAR 2023- JUN 2023)
 </aside>
