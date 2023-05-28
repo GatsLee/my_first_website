@@ -6,6 +6,10 @@ body {
   background-color: lightgray;
 }
 
+img {
+  align-items: center;
+}
+
 .main_photo {
   display: inline-block;
   width: 500px;
